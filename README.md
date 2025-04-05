@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Ervin! 
 
-<!--
-**Yejinhand69/Yejinhand69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Former Game Programmer / Unity Dev Intern @ Weyrdworks Production</br>
 
-Here are some ideas to get you started:
+🧠 Passionate about writing efficient, clean code for games that feel great to play.</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Unity, C#, and custom editor tooling are my jam.</br>
+
+## 📬 How to Reach Me
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [LinkedIn Profile](https://www.linkedin.com/in/ervin-chew-a71826305/) |
+| ✉️ Email | [ervinchew030815@gmail.com](mailto:ervinchew030815@gmail.com) |
